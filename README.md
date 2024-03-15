@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Caldera</h1>
 <h3 align="center">An enthusiastic mathematician and programmer from Mexico</h3>
 
-I studied at the university of guadalajara for a master of science degree in mathematics :mortar_board:. For now I am interested in topics related to Machine Learning, AI, Web Development and Cybersecurity :telescope:. I am currently learning frameworks like Flutter, Django, and React for my professional development 👨‍💻. 
+I studied at the University of Guadalajara for a master of science degree in mathematics :mortar_board:. For now I am interested in topics related to Machine Learning, AI, Web Development and Cybersecurity :telescope:. I am currently learning frameworks like Flutter, Django, and React for my professional development 👨‍💻. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
