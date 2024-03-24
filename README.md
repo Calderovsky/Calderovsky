@@ -12,6 +12,7 @@ I studied at the University of Guadalajara for a master of science degree in mat
 <a href="https://mariadb.org/" rel="noreferrer" ><img src="https://img.shields.io/badge/MariaDB-red?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010" alt="MariaDB"></a>
 <a href="https://www.mysql.com/" rel="noreferrer" ><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010" alt="MySQL"></a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html" rel="noreferrer" ><img src="https://img.shields.io/badge/shell_script-green?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010" alt="gnu-bash"></a>
+<a href="https://www.latex-project.org/" rel="noreferrer" ><img src="https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=101010" alt="LaTeX"></a>
 <a href="https://en.wikipedia.org/wiki/Linux" rel="noreferrer" ><img src="https://img.shields.io/badge/Linux-silver?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010" alt="GNU/Linux"></a>
 </p>
 
